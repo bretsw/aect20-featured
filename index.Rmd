@@ -34,9 +34,9 @@ library(xaringan)
 
 class: inverse, center, middle
 
-# View Slides
+**View Slides:** [bretsw.github.io/aect20-featured](https://bretsw.github.io/aect20-featured)
 
-[bretsw.github.io/aect20-featured](https://bretsw.github.io/aect20-featured)
+**Twitter:** [@bretsw](https://twitter.com/bretsw) | [@jeffpcarpenter](https://twitter.com/jeffpcarpenter)
 
 ---
 
@@ -501,9 +501,9 @@ include_graphics("img/across-time-full.jpg")
 include_graphics("img/question.jpg")
 ```
 
-- **Email:** [staudtwi@msu.edu](mailto:staudtwi@msu.edu)
+- **Email:** [staudtwi@msu.edu](mailto:staudtwi@msu.edu) | [jcarpenter13@elon.edu](jcarpenter13@elon.edu)
 
-- **Twitter:** [@bretsw](https://twitter.com/bretsw)
+- **Twitter:** [@bretsw](https://twitter.com/bretsw) | [@jeffpcarpenter](https://twitter.com/jeffpcarpenter)
 
 - **Web:** [bretsw.com](http://bretsw.com)
 

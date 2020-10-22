@@ -1,5 +1,9 @@
 # Time After Time: Continuity and Change in Teaching-Related Subreddits
 
+**K. Bret Staudt Willet & Jeffrey P. Carpenter**
+
+11/7/2020
+
 *Slide deck for AECT 2020*
 
 ## Abstract

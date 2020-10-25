@@ -46,7 +46,7 @@ class: inverse, center, middle
 
 ---
 
-# Educators' self-directed learning
+# Educators' Self-directed Learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teacher.jpg")
@@ -62,9 +62,9 @@ include_graphics("img/across-time-full.jpg")
 
 ---
 
-# Rise and fall of Myspace
+# Rise and Fall of Myspace
 
-```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
+```{r, out.width = "600px", echo = FALSE, fig.align = "center"}
 include_graphics("img/myspace.png")
 ```
 
@@ -148,9 +148,7 @@ include_graphics("img/reddit-logo.png")
 
 # Comparing Two Subreddits
 
-### r/Teachers and r/education
-
-[reddit.com/r/Teachers](https://www.reddit.com/r/Teachers/) | [reddit.com/r/education](https://www.reddit.com/r/education/)
+[**reddit.com/r/Teachers**](https://www.reddit.com/r/Teachers/) | [**reddit.com/r/education**](https://www.reddit.com/r/education/)
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teacher.jpg")
@@ -300,7 +298,7 @@ include_graphics("img/reddit-logo.png")
 
 - 2 subreddits x 7 time periods x 10 posts =  **140 posts**
 
-- 2 subreddits x 7 time periods x 100 responses = **1460 responses**
+- 2 subreddits x 7 time periods x 100 responses = **1,460 responses**
 
 ---
 
@@ -375,7 +373,7 @@ include_graphics("img/fig8-network-visualization.png")
 
 ---
 
-# Posts Content Analysis
+# Posts - Content Analysis
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/fig9-post-plot-bar1.png")
@@ -383,7 +381,7 @@ include_graphics("img/fig9-post-plot-bar1.png")
 
 ---
 
-# Posts Content Analysis
+# Posts - Content Analysis
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/fig9-post-plot-bar2.png")
@@ -391,7 +389,7 @@ include_graphics("img/fig9-post-plot-bar2.png")
 
 ---
 
-# Responses Content Analysis
+# Responses - Content Analysis
 
 ```{r, out.width = "480px", echo = FALSE, fig.align = "center"}
 include_graphics("img/fig10-response-plot-bar.png")
@@ -507,8 +505,8 @@ include_graphics("img/question.jpg")
 
 - **Web:** [bretsw.com](http://bretsw.com)
 
-- **Slides:** https://bretsw.github.io/aect20-featured
+- **Slides:** [bretsw.github.io/aect20-featured)](https://bretsw.github.io/aect20-featured)
 
-- **R code:** https://github.com/bretsw/subreddits-over-time
+- **R code:** [github.com/bretsw/subreddits-over-time](https://github.com/bretsw/subreddits-over-time)
 
 - **Data:** [osf.io/tm74g](https://osf.io/tm74g/)

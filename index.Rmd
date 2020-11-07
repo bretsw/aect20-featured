@@ -46,7 +46,7 @@ class: inverse, center, middle
 
 ---
 
-# Educators' Self-directed Learning
+# Self-directed Learning
 
 ```{r, out.width = "720px", echo = FALSE, fig.align = "center"}
 include_graphics("img/teacher.jpg")
@@ -503,10 +503,10 @@ include_graphics("img/question.jpg")
 
 - **Twitter:** [@bretsw](https://twitter.com/bretsw) | [@jeffpcarpenter](https://twitter.com/jeffpcarpenter)
 
-- **Web:** [bretsw.com](http://bretsw.com)
-
 - **Slides:** [bretsw.github.io/aect20-featured)](https://bretsw.github.io/aect20-featured)
 
 - **R code:** [github.com/bretsw/subreddits-over-time](https://github.com/bretsw/subreddits-over-time)
 
 - **Data:** [osf.io/tm74g](https://osf.io/tm74g/)
+
+- **Article in BJET:** [doi:10.1111/bjet.13051](https://doi.org/10.1111/bjet.13051)  *(Available soon)*

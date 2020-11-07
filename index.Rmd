@@ -503,7 +503,7 @@ include_graphics("img/question.jpg")
 
 - **Twitter:** [@bretsw](https://twitter.com/bretsw) | [@jeffpcarpenter](https://twitter.com/jeffpcarpenter)
 
-- **Slides:** [bretsw.github.io/aect20-featured)](https://bretsw.github.io/aect20-featured)
+- **Slides:** [bretsw.github.io/aect20-featured](https://bretsw.github.io/aect20-featured)
 
 - **R code:** [github.com/bretsw/subreddits-over-time](https://github.com/bretsw/subreddits-over-time)
 
